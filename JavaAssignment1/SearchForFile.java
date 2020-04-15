@@ -18,8 +18,8 @@ public class SearchForFile {
         }
     }
     public static void main(String[] args){
-        File dir=new File("/home/input.txt");
-        getFile("",dir);
+        File dir=new File("/home/nishitha");
+        getFile("[a-z][A-Z]+.txt",dir);
 
     }
 
