@@ -1,3 +1,4 @@
+package src;
 public class LightGridImplementation implements LightGrid {
     private boolean[][] lights;
 
