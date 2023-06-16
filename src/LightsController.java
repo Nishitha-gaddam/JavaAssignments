@@ -1,3 +1,4 @@
+package src;
 public class LightsController {
     public static void main(String[] args) {
         LightGrid lightGrid = new LightGridImplementation(1000);

@@ -1,3 +1,4 @@
+package src;
 public class LightCountImplementation implements LightCounter{
     @Override
     public int countLitLights(boolean[][] grid) {
